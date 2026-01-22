@@ -1,0 +1,31 @@
+MULTI THREADING
+________________________________________________
+THREAD -> SMALLEST INDIVIDUAL UNIT OF A PROGRAM,
+PROGRAM -> SET OF INSTRUCTIONS,
+PROCESS -> INSTANCE OF A PROGRAM,
+CORE PROCESSORS -> QUAD, OCTA,
+MULTI THREADING -> MULTIPLE THREADS WORKS TOGETHER TO EXECUTE THE SAME TASK. IT OPERATES AT THREAD LEVEL,
+MULTI TASKING -> IT ALLOWS OS TO EXECUTE MULTIPLE PROCESS SIMULTANEOUSLY. IT OPERATES AT LEVEL OF PROCESS,
+CONTEXT SWITCHING -> IT IS A STAGE OF STORING CONTEXT OF A PROCESS WHILE EXECUTING ANOTHER PROCESS
+PROCESS LIFE CYCLE -> READY, RUNNING, WAITING, TIMED WAITING, TERMINATE, NEW,
+NEW -> WHEN THE PROCESS IS CREATED BUT WAITING TO GET EXECUTE AND ITS BEFORE EXECUTING THE RUN METHOD,
+READY -> WHEN WE EXECUTE THE RUN METHOD BUT STILL WAITING TO EXECUTE AND MORE THAN ONE PROCESSES CAN STAY HERE AT THE SAME TIME
+RUNNING -> WHEN THE PROCESS IS ACTUALLY EXECUTING
+WAITING -> WHEN THE PROCESS IS GONE FOR THE IO OPERATIONS
+TIMED WAITING -> IT CAN EITHER DUE TO THE LESS SPACE IN THE WAITING QUEUE OR BEAUSE OF PREEMPTION OF PROCESS FROM THE WAITING QUEUE
+TERMINATE -> WHEN THE PROCESS IS SUCCESSFULLY EXECUTED,
+--------------------------------------------------
+WHEN THE JAVA PROGRAM RUNS, THEN THE MAIN THREAD IS EXECUTING AT FIRST
+Thread.currentThread().getName() - IT IS USED TO GET THE NAME OF THE CURRENT THREAD.
+start() : it is used to perform multi threading,
+run() : it is used to only define the body to execute but this method is not capable for performing Multi threading,
+--------------------------------------------------
+Two methods to perform multi threading is :-
+By using Thread Class
+By using Runnable Interface
+--------------------------------------------------
+By extending Thread class, start() method is used to perform multi threading
+By implementing Runnable Interface then no method is present named start(), then firstly to create object of Thread class by passing the object name inside it then start() method is called
+--------------------------------------------------
+But the main benefit of using Runnable interface is then as class can be extended at max one but interface can be infinite
+--------------------------------------------------
