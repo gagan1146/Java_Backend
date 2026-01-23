@@ -5,106 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c68886e4-d106-4ae9-b459-5177fefae929" name="Changes" comment="Merge branch 'main' of https://github.com/gagan1146/Java-Backend&#10;Merged remote main branch into local main to sync histories">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/AccessModifiers/AccessModifiersTable.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/AccessModifiers/AccessModifiersTable.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/AccessModifiers/UseOfDefault/DefaultClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/AccessModifiers/UseOfDefault/DefaultClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/AccessModifiers/UseOfPrivate/PrivateClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/AccessModifiers/UseOfPrivate/PrivateClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/AccessModifiers/UseOfProtected/ProtectedClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/AccessModifiers/UseOfProtected/ProtectedClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/AccessModifiers/UseOfPublic/PublicClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/AccessModifiers/UseOfPublic/PublicClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/DataTypes/PrimitiveDataTypes/PrimitiveDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/DataTypes/PrimitiveDataTypes/PrimitiveDataTypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/DataTypes/WrapperClasses/WrapperClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/DataTypes/WrapperClasses/WrapperClasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/Interface/Interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/Interface/Interfaces.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/Interface/MagicOfMainInInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/Interface/MagicOfMainInInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/Interface/MultipleInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/Interface/MultipleInheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/MathematicalOperations/ArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/MathematicalOperations/ArithmeticOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/MathematicalOperations/MathClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/MathematicalOperations/MathClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/OOPS/Abstraction/Abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/OOPS/Abstraction/Abstraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/OOPS/Encapsulation/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/OOPS/Encapsulation/Encapsulation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/OOPS/Inheritance/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/OOPS/Inheritance/Inheritance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/OOPS/Polymorphism/Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/OOPS/Polymorphism/Polymorphism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Iterable/UseOfIterableClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Iterable/UseOfIterableClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/List/ArrayList/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/List/ArrayList/ArrayList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/List/ArrayList/CopyOnWriteArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/List/ArrayList/CopyOnWriteArrayListExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/List/Stack/LinkedListImplementation/HashMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/List/Stack/LinkedListImplementation/HashMapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/List/Stack/LinkedListImplementation/StackImplemetationUsingLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/List/Stack/LinkedListImplementation/StackImplemetationUsingLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/List/Stack/StackClass/UsingStackClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/List/Stack/StackClass/UsingStackClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/List/Vector/VectorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/List/Vector/VectorExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Map/HashMap/HashMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Map/HashMap/HashMapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Map/HashTable/HashTableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Map/HashTable/HashTableExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Map/LinkedHashMap/LinkedHashMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Map/LinkedHashMap/LinkedHashMapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Map/SortedMap/SortedMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Map/SortedMap/SortedMapExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Queue/AllOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Queue/AllOperations.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Queue/Deque/UseOfDequeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Queue/Deque/UseOfDequeClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Queue/LinkedListImplementation/QueueImplemetationUsingLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Queue/LinkedListImplementation/QueueImplemetationUsingLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Queue/PriorityQueue/UseOfPriorityQueueClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Queue/PriorityQueue/UseOfPriorityQueueClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Queue/QueueClassImplementation/UseOfQueueClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Queue/QueueClassImplementation/UseOfQueueClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Set/Basics/BasicExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Set/Basics/BasicExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Set/CopyOnWriteArraySet/CopyOnWriteArraySetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Set/CopyOnWriteArraySet/CopyOnWriteArraySetExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DataBase/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/DataBase/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ExceptionHandling/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/ExceptionHandling/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ExceptionHandling/CustiomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/ExceptionHandling/CustiomException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ExceptionHandling/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/ExceptionHandling/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FileIO/ByteType/InputStream/InputStreamClass" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/FileIO/ByteType/InputStream/InputStreamClass" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FileIO/ByteType/OutputStream/OutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/FileIO/ByteType/OutputStream/OutputStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FileIO/CharacterType/Reader/BufferReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/FileIO/CharacterType/Reader/BufferReader.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FileIO/CharacterType/Writer/BufferWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/FileIO/CharacterType/Writer/BufferWriter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Generics/BasicGenericClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Generics/BasicGenericClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Generics/BoundedTypeConversion/BoundedTypeConversionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Generics/BoundedTypeConversion/BoundedTypeConversionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Generics/GenericInEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Generics/GenericInEnum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InnerClassesPackage/InnerClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/InnerClassesPackage/InnerClasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InnerClassesPackage/MemberInnerClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/InnerClassesPackage/MemberInnerClasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InnerClassesPackage/StaticInnerClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/InnerClassesPackage/StaticInnerClasses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/DateTime/ExampleOfDateTimeAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/DateTime/ExampleOfDateTimeAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/FunctionalInterface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/FunctionalInterface/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/FunctionalInterface/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/FunctionalInterface/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/LambdaFunction/LambdaFunctionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/LambdaFunction/LambdaFunctionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/LambdaFunction/WithLambdaExpression/AnotherExampleWithLambdaExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/LambdaFunction/WithLambdaExpression/AnotherExampleWithLambdaExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/LambdaFunction/WithLambdaExpression/ExampleWithLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/LambdaFunction/WithLambdaExpression/ExampleWithLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/LambdaFunction/WithoutLambdaExpression/AnotherExampleWithoutLambdaFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/LambdaFunction/WithoutLambdaExpression/AnotherExampleWithoutLambdaFunction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/LambdaFunction/WithoutLambdaExpression/ExampleWithoutLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/LambdaFunction/WithoutLambdaExpression/ExampleWithoutLambda.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/Predicate/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/Predicate/Consumer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/Predicate/Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/Predicate/Function.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/Predicate/Predicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/Predicate/Predicate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/Predicate/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/Predicate/Supplier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/Streams/StreamImportance/Streams.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/Streams/StreamImportance/Streams.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/Streams/StreamImportance/WithStramUsage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/Streams/StreamImportance/WithStramUsage/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/Streams/StreamImportance/WithoutStreamUsage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/Streams/StreamImportance/WithoutStreamUsage/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/BasicFlow/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/BasicFlow/ClassA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/BasicFlow/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/BasicFlow/ClassB.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/BasicFlow/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/BasicFlow/MainClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/Basics.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Basics.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/ConcurrentExecution/UsingRunnableInterface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/ConcurrentExecution/UsingRunnableInterface/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/ConcurrentExecution/UsingRunnableInterface/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/ConcurrentExecution/UsingRunnableInterface/World.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/ConcurrentExecution/UsingThreadClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/ConcurrentExecution/UsingThreadClass/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/ConcurrentExecution/UsingThreadClass/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/ConcurrentExecution/UsingThreadClass/World.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/DaemonThreads/DaemonThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/DaemonThreads/DaemonThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/DaemonThreads/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/DaemonThreads/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/Methods/Join.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Methods/Join.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/Methods/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Methods/Start.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/Priority/DefaultPriority/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Priority/DefaultPriority/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/Priority/SetPriority/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Priority/SetPriority/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/Priority/SetPriority/Mythread.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Priority/SetPriority/Mythread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/ProcessStates/AllStatesInOne/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/ProcessStates/AllStatesInOne/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/ProcessStates/NewState.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/ProcessStates/NewState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/ProcessStates/Runnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/ProcessStates/Runnable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/ProcessStates/TeminatedState.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/ProcessStates/TeminatedState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/ProcessStates/TimedWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/ProcessStates/TimedWait.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/Synchronization/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Synchronization/Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/Synchronization/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Synchronization/MyThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/Synchronization/SynchronizationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Synchronization/SynchronizationMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UseOfEnums/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/UseOfEnums/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UseOfEnums/abc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/UseOfEnums/abc.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Synchronization/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Synchronization/BenefitOfUsingSynchronization/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Synchronization/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Synchronization/BenefitOfUsingSynchronization/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Synchronization/SynchronizationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Synchronization/BenefitOfUsingSynchronization/SynchronizationMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,83 +67,86 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Abstraction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AllOperations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnotherExampleWithLambdaExpression.executor&quot;: &quot;Run&quot;,
-    &quot;Application.AnotherExampleWithoutLambdaFunction.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArithmeticOperators.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayList.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BasicExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.BasicGenericClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Consumer.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CopyOnWriteArrayListExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CopyOnWriteArraySetExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CurrentDateTime.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DaemonThread.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DefaultClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DeprecatedAnnotationExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExampleOfDateTimeAPI.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExampleWithLambda.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExampleWithoutLambda.executor&quot;: &quot;Run&quot;,
-    &quot;Application.GenericInEnum.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashMapExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.HashTableExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.InnerClasses.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Interfaces.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Join.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LinkedHashMapExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LocalDateExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LocalDateTimeExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LocalTimeExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MagicOfMainInInterface.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MainClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MultipleInheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MyThread.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NewState.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NewSwitchCaseExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OldSwitchCaseExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.OverrideAnnotationExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Predicate.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RecordKeywordExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.RecordKeywordExample1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Runnable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SealedClassExample1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SortedMapExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Start.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SynchronizationMain.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TeminatedState.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TimedWait.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UseOfIterableClass.executor&quot;: &quot;Run&quot;,
-    &quot;Application.VectorExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.WrapperClasses.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ZonedDateTimeExample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.org.example.Java8.Streams.StreamImportance.WithStramUsage.Main.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/gagsharm/OneDrive - Ciena Corporation/Desktop/Java_Practice/Java-core/Packages/src/main/java/org/example/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Abstraction.executor": "Run",
+    "Application.AllOperations.executor": "Run",
+    "Application.AnotherExampleWithLambdaExpression.executor": "Run",
+    "Application.AnotherExampleWithoutLambdaFunction.executor": "Run",
+    "Application.ArithmeticOperators.executor": "Run",
+    "Application.ArrayList.executor": "Run",
+    "Application.BasicExample.executor": "Run",
+    "Application.BasicGenericClass.executor": "Run",
+    "Application.Consumer.executor": "Run",
+    "Application.CopyOnWriteArrayListExample.executor": "Run",
+    "Application.CopyOnWriteArraySetExample.executor": "Run",
+    "Application.CurrentDateTime.executor": "Run",
+    "Application.DaemonThread.executor": "Run",
+    "Application.DefaultClass.executor": "Run",
+    "Application.DeprecatedAnnotationExample.executor": "Run",
+    "Application.Example.executor": "Run",
+    "Application.ExampleOfDateTimeAPI.executor": "Run",
+    "Application.ExampleWithLambda.executor": "Run",
+    "Application.ExampleWithoutLambda.executor": "Run",
+    "Application.GenericInEnum.executor": "Run",
+    "Application.HashMapExample.executor": "Run",
+    "Application.HashTableExample.executor": "Run",
+    "Application.InnerClasses.executor": "Run",
+    "Application.Interfaces.executor": "Run",
+    "Application.Join.executor": "Run",
+    "Application.LinkedHashMapExample.executor": "Run",
+    "Application.LocalDateExample.executor": "Run",
+    "Application.LocalDateTimeExample.executor": "Run",
+    "Application.LocalTimeExample.executor": "Run",
+    "Application.LockExample1.executor": "Run",
+    "Application.MagicOfMainInInterface.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.MainClass.executor": "Run",
+    "Application.MultipleInheritance.executor": "Run",
+    "Application.MyThread.executor": "Run",
+    "Application.NewState.executor": "Run",
+    "Application.NewSwitchCaseExample.executor": "Run",
+    "Application.OldSwitchCaseExample.executor": "Run",
+    "Application.OverrideAnnotationExample.executor": "Run",
+    "Application.Predicate.executor": "Run",
+    "Application.RecordKeywordExample.executor": "Run",
+    "Application.RecordKeywordExample1.executor": "Run",
+    "Application.ReenterantLockExample1.executor": "Run",
+    "Application.Runnable.executor": "Run",
+    "Application.SealedClassExample1.executor": "Run",
+    "Application.SortedMapExample.executor": "Run",
+    "Application.Start.executor": "Run",
+    "Application.SynchronizationMain.executor": "Run",
+    "Application.TeminatedState.executor": "Run",
+    "Application.TimedWait.executor": "Run",
+    "Application.UseOfIterableClass.executor": "Run",
+    "Application.VectorExample.executor": "Run",
+    "Application.WrapperClasses.executor": "Run",
+    "Application.ZonedDateTimeExample.executor": "Run",
+    "Application.org.example.Java8.Streams.StreamImportance.WithStramUsage.Main.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/gagsharm/OneDrive - Ciena Corporation/Desktop/Java_Practice/Java-core/Packages/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\gagsharm\OneDrive - Ciena Corporation\Desktop\Java_Practice\Java-core\Java-Core-Practice\Core_Java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BasicGenericClass">
+  <component name="RunManager" selected="Application.ReenterantLockExample1">
     <configuration name="BasicGenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.Generics.BasicGenericClass" />
       <module name="Java-Practices" />
@@ -266,12 +173,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewSwitchCaseExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Java10_17_Features.SwitchStatement.NewSwitchStatement.NewSwitchCaseExample" />
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Multithreading.Synchronization.LimitationOfNotUsingSynchronization.Example" />
       <module name="Java-Practices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Java10_17_Features.SwitchStatement.NewSwitchStatement.*" />
+          <option name="PATTERN" value="org.example.Multithreading.Synchronization.LimitationOfNotUsingSynchronization.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -279,12 +186,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OldSwitchCaseExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Java10_17_Features.SwitchStatement.OldSwitchStatement.OldSwitchCaseExample" />
+    <configuration name="LockExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Multithreading.Locks.LockExample1" />
       <module name="Java-Practices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Java10_17_Features.SwitchStatement.OldSwitchStatement.*" />
+          <option name="PATTERN" value="org.example.Multithreading.Locks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,12 +199,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OverrideAnnotationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.Annotations.OverrideAnnotation.OverrideAnnotationExample" />
+    <configuration name="ReenterantLockExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Multithreading.Locks.ReenterantLock.ReenterantLockExample1" />
       <module name="Java-Practices" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.Annotations.OverrideAnnotation.*" />
+          <option name="PATTERN" value="org.example.Multithreading.Locks.ReenterantLock.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,11 +214,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReenterantLockExample1" />
+        <item itemvalue="Application.LockExample1" />
+        <item itemvalue="Application.Example" />
         <item itemvalue="Application.BasicGenericClass" />
         <item itemvalue="Application.DeprecatedAnnotationExample" />
-        <item itemvalue="Application.OverrideAnnotationExample" />
-        <item itemvalue="Application.NewSwitchCaseExample" />
-        <item itemvalue="Application.OldSwitchCaseExample" />
       </list>
     </recent_temporary>
   </component>
@@ -347,7 +254,7 @@
       <workItem from="1769089505519" duration="1931000" />
       <workItem from="1769094261707" duration="3719000" />
       <workItem from="1769136312083" duration="2422000" />
-      <workItem from="1769141627003" duration="7972000" />
+      <workItem from="1769141627003" duration="14741000" />
     </task>
     <task id="LOCAL-00001" summary="Added Files from basic concepts ( dataTypes,OOPS, Access Modifiers, File IO, Exceptio Handling, Collection Framework ( Map, Queue ),Java8 ( Lambda Functions )">
       <option name="closed" value="true" />

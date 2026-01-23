@@ -1,4 +1,4 @@
-package org.example.Multithreading.Synchronization;
+package org.example.Multithreading.Synchronization.BenefitOfUsingSynchronization;
 
 public class Counter {
   private  int count = 0;

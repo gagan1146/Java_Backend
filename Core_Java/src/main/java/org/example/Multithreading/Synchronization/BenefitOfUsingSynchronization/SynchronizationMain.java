@@ -1,4 +1,4 @@
-package org.example.Multithreading.Synchronization;
+package org.example.Multithreading.Synchronization.BenefitOfUsingSynchronization;
 
 public class SynchronizationMain {
     static void main(String[] args) {
