@@ -1,4 +1,4 @@
-package org.example.CollectionFramework.Map.HashMap;
+package org.example.CollectionFramework.List.Stack.LinkedListImplementation;
 
 import java.util.*;
 import java.util.Map.Entry;

@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c68886e4-d106-4ae9-b459-5177fefae929" name="Changes" comment="Merge branch 'main' of https://github.com/gagan1146/Java-Backend&#10;Merged remote main branch into local main to sync histories">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/AccessModifiers/AccessModifiersTable.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/AccessModifiers/AccessModifiersTable.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/AccessModifiers/UseOfDefault/DefaultClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/AccessModifiers/UseOfDefault/DefaultClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/AccessModifiers/UseOfPrivate/PrivateClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/AccessModifiers/UseOfPrivate/PrivateClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/AccessModifiers/UseOfProtected/ProtectedClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/AccessModifiers/UseOfProtected/ProtectedClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/AccessModifiers/UseOfPublic/PublicClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/AccessModifiers/UseOfPublic/PublicClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/DataTypes/PrimitiveDataTypes/PrimitiveDataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/DataTypes/PrimitiveDataTypes/PrimitiveDataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/DataTypes/WrapperClasses/WrapperClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/DataTypes/WrapperClasses/WrapperClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/Interface/Interfaces.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/Interface/Interfaces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/Interface/MagicOfMainInInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/Interface/MagicOfMainInInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/Interface/MultipleInheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/Interface/MultipleInheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/MathematicalOperations/ArithmeticOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/MathematicalOperations/ArithmeticOperators.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/MathematicalOperations/MathClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/MathematicalOperations/MathClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/OOPS/Abstraction/Abstraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/OOPS/Abstraction/Abstraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/OOPS/Encapsulation/Encapsulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/OOPS/Encapsulation/Encapsulation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/OOPS/Inheritance/Inheritance.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/OOPS/Inheritance/Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/BasicsJava/OOPS/Polymorphism/Polymorphism.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/BasicsJava/OOPS/Polymorphism/Polymorphism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Iterable/UseOfIterableClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Iterable/UseOfIterableClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/List/ArrayList/ArrayList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/List/ArrayList/ArrayList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/List/ArrayList/CopyOnWriteArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/List/ArrayList/CopyOnWriteArrayListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/List/Stack/LinkedListImplementation/HashMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/List/Stack/LinkedListImplementation/HashMapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/List/Stack/LinkedListImplementation/StackImplemetationUsingLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/List/Stack/LinkedListImplementation/StackImplemetationUsingLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/List/Stack/StackClass/UsingStackClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/List/Stack/StackClass/UsingStackClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/List/Vector/VectorExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/List/Vector/VectorExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Map/HashMap/HashMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Map/HashMap/HashMapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Map/HashTable/HashTableExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Map/HashTable/HashTableExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Map/LinkedHashMap/LinkedHashMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Map/LinkedHashMap/LinkedHashMapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Map/SortedMap/SortedMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Map/SortedMap/SortedMapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Queue/AllOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Queue/AllOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Queue/Deque/UseOfDequeClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Queue/Deque/UseOfDequeClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Queue/LinkedListImplementation/QueueImplemetationUsingLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Queue/LinkedListImplementation/QueueImplemetationUsingLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Queue/PriorityQueue/UseOfPriorityQueueClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Queue/PriorityQueue/UseOfPriorityQueueClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Queue/QueueClassImplementation/UseOfQueueClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Queue/QueueClassImplementation/UseOfQueueClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Set/Basics/BasicExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Set/Basics/BasicExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/CollectionFramework/Set/CopyOnWriteArraySet/CopyOnWriteArraySetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/CollectionFramework/Set/CopyOnWriteArraySet/CopyOnWriteArraySetExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/DataBase/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/DataBase/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ExceptionHandling/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/ExceptionHandling/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ExceptionHandling/CustiomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/ExceptionHandling/CustiomException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ExceptionHandling/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/ExceptionHandling/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FileIO/ByteType/InputStream/InputStreamClass" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/FileIO/ByteType/InputStream/InputStreamClass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FileIO/ByteType/OutputStream/OutputStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/FileIO/ByteType/OutputStream/OutputStream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FileIO/CharacterType/Reader/BufferReader.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/FileIO/CharacterType/Reader/BufferReader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/FileIO/CharacterType/Writer/BufferWriter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/FileIO/CharacterType/Writer/BufferWriter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Generics/BasicGenericClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Generics/BasicGenericClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Generics/BoundedTypeConversion/BoundedTypeConversionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Generics/BoundedTypeConversion/BoundedTypeConversionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Generics/GenericInEnum.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Generics/GenericInEnum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InnerClassesPackage/InnerClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/InnerClassesPackage/InnerClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InnerClassesPackage/MemberInnerClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/InnerClassesPackage/MemberInnerClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/InnerClassesPackage/StaticInnerClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/InnerClassesPackage/StaticInnerClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/DateTime/ExampleOfDateTimeAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/DateTime/ExampleOfDateTimeAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/FunctionalInterface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/FunctionalInterface/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/FunctionalInterface/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/FunctionalInterface/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/LambdaFunction/LambdaFunctionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/LambdaFunction/LambdaFunctionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/LambdaFunction/WithLambdaExpression/AnotherExampleWithLambdaExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/LambdaFunction/WithLambdaExpression/AnotherExampleWithLambdaExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/LambdaFunction/WithLambdaExpression/ExampleWithLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/LambdaFunction/WithLambdaExpression/ExampleWithLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/LambdaFunction/WithoutLambdaExpression/AnotherExampleWithoutLambdaFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/LambdaFunction/WithoutLambdaExpression/AnotherExampleWithoutLambdaFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/LambdaFunction/WithoutLambdaExpression/ExampleWithoutLambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/LambdaFunction/WithoutLambdaExpression/ExampleWithoutLambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/Predicate/Consumer.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/Predicate/Consumer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/Predicate/Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/Predicate/Function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/Predicate/Predicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/Predicate/Predicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/Predicate/Supplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/Predicate/Supplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/Streams/StreamImportance/Streams.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/Streams/StreamImportance/Streams.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/Streams/StreamImportance/WithStramUsage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/Streams/StreamImportance/WithStramUsage/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Java8/Streams/StreamImportance/WithoutStreamUsage/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Java8/Streams/StreamImportance/WithoutStreamUsage/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/BasicFlow/ClassA.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/BasicFlow/ClassA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/BasicFlow/ClassB.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/BasicFlow/ClassB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/BasicFlow/MainClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/BasicFlow/MainClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/Basics.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Basics.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/ConcurrentExecution/UsingRunnableInterface/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/ConcurrentExecution/UsingRunnableInterface/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/ConcurrentExecution/UsingRunnableInterface/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/ConcurrentExecution/UsingRunnableInterface/World.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/ConcurrentExecution/UsingThreadClass/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/ConcurrentExecution/UsingThreadClass/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/ConcurrentExecution/UsingThreadClass/World.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/ConcurrentExecution/UsingThreadClass/World.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/DaemonThreads/DaemonThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/DaemonThreads/DaemonThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/DaemonThreads/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/DaemonThreads/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/Methods/Join.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Methods/Join.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/Methods/Start.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Methods/Start.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/Priority/DefaultPriority/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Priority/DefaultPriority/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/Priority/SetPriority/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Priority/SetPriority/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/Priority/SetPriority/Mythread.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Priority/SetPriority/Mythread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/ProcessStates/AllStatesInOne/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/ProcessStates/AllStatesInOne/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/ProcessStates/NewState.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/ProcessStates/NewState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/ProcessStates/Runnable.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/ProcessStates/Runnable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/ProcessStates/TeminatedState.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/ProcessStates/TeminatedState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/ProcessStates/TimedWait.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/ProcessStates/TimedWait.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/Synchronization/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Synchronization/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/Synchronization/MyThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Synchronization/MyThread.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Multithreading/Synchronization/SynchronizationMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/Multithreading/Synchronization/SynchronizationMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UseOfEnums/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/UseOfEnums/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/UseOfEnums/abc.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Core_Java/src/main/java/org/example/UseOfEnums/abc.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true">
+    <option name="groupingKeys">
+      <option value="directory" />
+      <option value="module" />
+      <option value="repository" />
+    </option>
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gagan1146&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gagan1146/Java_Backend&quot;,
+    &quot;accountId&quot;: &quot;faeece40-ef46-4bcd-abd9-7612c52f7f54&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/example/Java10_17_Features/SealedClasses/SealedClassConcept.txt" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="38VtqFenaewXhVbWM6xlndTasoF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Abstraction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AllOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnotherExampleWithLambdaExpression.executor&quot;: &quot;Run&quot;,
+    &quot;Application.AnotherExampleWithoutLambdaFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArithmeticOperators.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BasicExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BasicGenericClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Consumer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CopyOnWriteArrayListExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CopyOnWriteArraySetExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CurrentDateTime.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DaemonThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DefaultClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DeprecatedAnnotationExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExampleOfDateTimeAPI.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExampleWithLambda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExampleWithoutLambda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GenericInEnum.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashMapExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.HashTableExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.InnerClasses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Interfaces.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Join.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LinkedHashMapExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LocalDateExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LocalDateTimeExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LocalTimeExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MagicOfMainInInterface.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MultipleInheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MyThread.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewState.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NewSwitchCaseExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OldSwitchCaseExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.OverrideAnnotationExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Predicate.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecordKeywordExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RecordKeywordExample1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Runnable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SealedClassExample1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SortedMapExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Start.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SynchronizationMain.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TeminatedState.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TimedWait.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UseOfIterableClass.executor&quot;: &quot;Run&quot;,
+    &quot;Application.VectorExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.WrapperClasses.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ZonedDateTimeExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.org.example.Java8.Streams.StreamImportance.WithStramUsage.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/gagsharm/OneDrive - Ciena Corporation/Desktop/Java_Practice/Java-core/Packages/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gagsharm\OneDrive - Ciena Corporation\Desktop\Java_Practice\Java-core\Java-Core-Practice\Core_Java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BasicGenericClass">
+    <configuration name="BasicGenericClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Generics.BasicGenericClass" />
+      <module name="Java-Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Generics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeprecatedAnnotationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Annotations.DeprecatedAnnotation.DeprecatedAnnotationExample" />
+      <module name="Java-Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Annotations.DeprecatedAnnotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NewSwitchCaseExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Java10_17_Features.SwitchStatement.NewSwitchStatement.NewSwitchCaseExample" />
+      <module name="Java-Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Java10_17_Features.SwitchStatement.NewSwitchStatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OldSwitchCaseExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Java10_17_Features.SwitchStatement.OldSwitchStatement.OldSwitchCaseExample" />
+      <module name="Java-Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Java10_17_Features.SwitchStatement.OldSwitchStatement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OverrideAnnotationExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.Annotations.OverrideAnnotation.OverrideAnnotationExample" />
+      <module name="Java-Practices" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.Annotations.OverrideAnnotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BasicGenericClass" />
+        <item itemvalue="Application.DeprecatedAnnotationExample" />
+        <item itemvalue="Application.OverrideAnnotationExample" />
+        <item itemvalue="Application.NewSwitchCaseExample" />
+        <item itemvalue="Application.OldSwitchCaseExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c68886e4-d106-4ae9-b459-5177fefae929" name="Changes" comment="" />
+      <created>1768896757646</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1768896757646</updated>
+      <workItem from="1768896758701" duration="1796000" />
+      <workItem from="1768901812611" duration="5800000" />
+      <workItem from="1768917037304" duration="7429000" />
+      <workItem from="1768962929344" duration="4868000" />
+      <workItem from="1768969889915" duration="5035000" />
+      <workItem from="1768983253811" duration="270000" />
+      <workItem from="1768983554554" duration="25000" />
+      <workItem from="1768983631202" duration="3216000" />
+      <workItem from="1768989915822" duration="3573000" />
+      <workItem from="1768993598708" duration="2206000" />
+      <workItem from="1768996436053" duration="2353000" />
+      <workItem from="1769000331995" duration="5666000" />
+      <workItem from="1769013202316" duration="685000" />
+      <workItem from="1769051537898" duration="17167000" />
+      <workItem from="1769089505519" duration="1931000" />
+      <workItem from="1769094261707" duration="3719000" />
+      <workItem from="1769136312083" duration="2422000" />
+      <workItem from="1769141627003" duration="7972000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added Files from basic concepts ( dataTypes,OOPS, Access Modifiers, File IO, Exceptio Handling, Collection Framework ( Map, Queue ),Java8 ( Lambda Functions )">
+      <option name="closed" value="true" />
+      <created>1768995748378</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1768995748378</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Files from basic concepts ( dataTypes,OOPS, Access Modifiers, File IO, Exceptio Handling, Collection Framework ( Map, Queue ),Java8 ( Lambda Functions )">
+      <option name="closed" value="true" />
+      <created>1768997656365</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768997656365</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Files from basic concepts ( dataTypes,OOPS, Access Modifiers, File IO, Exceptio Handling, Collection Framework ( Map, Queue ),Java8 ( Lambda Functions )" />
+    <MESSAGE value="Merge branch 'main' of https://github.com/gagan1146/Java-Backend&#10;Merged remote main branch into local main to sync histories" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'main' of https://github.com/gagan1146/Java-Backend&#10;Merged remote main branch into local main to sync histories" />
+  </component>
+</project>

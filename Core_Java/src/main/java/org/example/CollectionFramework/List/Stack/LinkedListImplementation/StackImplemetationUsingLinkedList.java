@@ -1,4 +1,4 @@
-package org.example.CollectionFramework.List.Stack;
+package org.example.CollectionFramework.List.Stack.LinkedListImplementation;
 import java.util.LinkedList;
 
 class Student{
