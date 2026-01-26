@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <bean class="com.dependency.Setter.UsingXML.pojo.Address" id="addId1">
+        <property name="area" value="Almora"/>
+        <property name="city" value="Norway"/>
+        <property name="pincode" value="209302"/>
+    </bean>
+
+    <bean class="com.dependency.Setter.UsingXML.pojo.Student" id="stdId1">
+        <property name="name" value="John Cena"/>
+        <property name="rollno" value="7"/>
+        <property name="address" ref="addId1"/>
+    </bean>
+
+</beans>
