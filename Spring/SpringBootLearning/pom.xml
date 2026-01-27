@@ -5,14 +5,14 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>4.0.2</version>
+        <version>3.5.10</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.gagan</groupId>
-    <artifactId>BasicsOfAnnotationAndConfiguration</artifactId>
+    <groupId>org.gagan</groupId>
+    <artifactId>SpringBootLearning</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>BasicsOfAnnotationAndConfiguration</name>
-    <description>Demo project for Spring Boot</description>
+    <name>SpringBootLearning</name>
+    <description>SpringBootLearning</description>
     <url/>
     <licenses>
         <license/>
@@ -27,36 +27,20 @@
         <url/>
     </scm>
     <properties>
-        <java.version>17</java.version>
+        <java.version>21</java.version>
     </properties>
     <dependencies>
-        <!-- Spring Boot Web Starter -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
         </dependency>
 
-        <!-- Spring Boot JDBC Starter -->
-        <dependency>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-starter-jdbc</artifactId>
-        </dependency>
-
-        <!-- MySQL Connector/J -->
-        <dependency>
-            <groupId>com.mysql</groupId>
-            <artifactId>mysql-connector-j</artifactId>
-            <version>9.5.0</version>
-        </dependency>
-
-        <!-- Spring Boot Test Starter -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
             <scope>test</scope>
         </dependency>
     </dependencies>
-
 
     <build>
         <plugins>
