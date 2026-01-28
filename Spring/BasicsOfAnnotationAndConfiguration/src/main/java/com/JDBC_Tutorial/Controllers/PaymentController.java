@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class PaymentController {
     @GetMapping("/upi")
     public String UpiPayment(){
-        return "I am using UPI as a Payment Gateway"
+        return "I am using UPI as a Payment Gateway";
     }
 }
