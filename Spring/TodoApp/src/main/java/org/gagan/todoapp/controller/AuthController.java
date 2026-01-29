@@ -17,7 +17,12 @@ public class AuthController {
         this.authService = authService;
     }
     @PostMapping("/signup")
-    public String signup(@ResponseBody SignupRequest request){
+    public String signup(@RequesteBody SignupRequest request){
         return authService.signup(request.username,request.password);
+    }
+
+    @PostMaping("/login")
+    public String login(@RequestBody LoginRequest request){
+        return authService.login(request.username, request.password);
     }
 }

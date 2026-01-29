@@ -21,4 +21,12 @@ public class AuthService {
         UserRepository.userTodos.put(userId,new java.util.ArrayList<>());
         return userId;
     }
+    public String login(String username, String password){
+        for(User user: UserRepository.users.values()){
+            if(user.getUsername().equals(username) && user.getPassword().equals(password){
+                return user.getUserId();
+            }
+        }
+        throw new RuntimeException("Invalid Credentials..");
+    }
 }
