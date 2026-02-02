@@ -9,10 +9,11 @@
         <option value="$PROJECT_DIR$/SpringBootLearning/pom.xml" />
         <option value="$PROJECT_DIR$/LearningSpringBeanLifeCycle/pom.xml" />
         <option value="$PROJECT_DIR$/BasicsOfAnnotationAndConfiguration/pom.xml" />
+        <option value="$PROJECT_DIR$/TodoApp/pom.xml" />
       </list>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="25" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/out" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_25" project-jdk-name="25" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/BasicsOfAnnotationAndConfiguration" />
   </component>
 </project>
