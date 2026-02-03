@@ -9,13 +9,14 @@ import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
 import java.util.List;
 import java.util.UUID;
 
 @Controller
-//@RequestMapping("/tasks")
+@RequestMapping("/tasks")
 public class TaskController {
     private final TaskService taskService;
     @Autowired
@@ -30,7 +31,7 @@ public class TaskController {
     public String addTask(@RequestParam String title, @RequestParam(defaultValue = "false") boolean completed) {
         Task task = new Task(title, completed);
         taskRepository.save(task);
-        return "redirect:/";
+        return "redirect:/tasks";
     }
 
     @GetMapping
@@ -43,12 +44,12 @@ public class TaskController {
     @PostMapping("/{id}/delete")
     public String deleteTasks(@PathVariable UUID id) {
         taskService.deleteTask(id);
-        return "redirect:/";
+        return "redirect:/tasks";
     }
 
     @PostMapping("/{id}/toggle")
     public String toggleTasks(@PathVariable UUID id) {
         taskService.toggleTask(id);
-        return "redirect:/";
+        return "redirect:/tasks";
     }
 }

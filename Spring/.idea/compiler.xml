@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Annotation profile for PracticeSpring" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -21,24 +22,30 @@
         <module name="LearningMapping" />
         <module name="LearningSpringBeanLifeCycle" />
       </profile>
-      <profile name="Annotation profile for TodoApp" enabled="true">
+      <profile name="Annotation profile for Spring-Security-Practice" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="false">
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
         </processorPath>
+        <module name="Spring-Security-Practice" />
         <module name="TodoApp" />
+        <module name="To-Do-Application" />
+        <module name="JPA_Practice" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="BasicsOfAnnotationAndConfiguration" options="-parameters" />
+      <module name="JPA_Practice" options="-parameters" />
       <module name="LearningMapping" options="-parameters" />
       <module name="LearningSpringBeanLifeCycle" options="-parameters" />
       <module name="PracticeSpring" options="-parameters" />
+      <module name="Spring-Security-Practice" options="-parameters" />
       <module name="SpringBootLearning" options="-parameters" />
+      <module name="To-Do-Application" options="-parameters" />
       <module name="TodoApp" options="-parameters" />
     </option>
   </component>

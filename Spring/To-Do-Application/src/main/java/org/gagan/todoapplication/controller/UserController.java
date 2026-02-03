@@ -1,27 +1,30 @@
 package org.gagan.todoapplication.controller;
 
-import org.gagan.todoapplication.models.UserModel;
-import org.gagan.todoapplication.repository.UserRepository;
 import org.gagan.todoapplication.services.UserServices;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
 
-@Controller
+@RestController("/user")
 public class UserController {
     private final UserServices userServices;
-    @Autowired
-    private final UserRepository userRepository;
 
-    public UserController(UserServices userServices, UserRepository userRepository) {
+    public UserController(UserServices userServices) {
         this.userServices = userServices;
-        this.userRepository = userRepository;
     }
 
     @PostMapping("/login")
-    public UserModel Login(@RequestParam String name, @RequestParam String email, @RequestParam String password){
-        UserModel userModel = new UserModel(name,email,password);
-        return userModel;
+    public ResponseEntity<?> login(@RequestParam String email, @RequestParam String password) {
+        var userModel = new org.gagan.todoapplication.models.UserModel();
+        userModel.setEmail(email);
+        userModel.setPassword(password);
+        return userServices.login(userModel);
+    }
+
+    @PostMapping("/signup")
+    public ResponseEntity<?> signup(@RequestParam String name, @RequestParam String email, @RequestParam String password) {
+        var userModel = new org.gagan.todoapplication.models.UserModel(name, email, password);
+        return userServices.signup(userModel);
     }
 }

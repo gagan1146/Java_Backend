@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo App</title>
+    <link rel="stylesheet" th:href="@{/styles.css}">
+</head>
+<body>
+<div class="app">
+    <h1>Todo App</h1>
+
+    <form action="/add" method="post" class="add-form">
+        <input type="text" name="name" placeholder="Enter your name" required>
+        <input type="text" name="email" placeholder="Enter your email" required>
+        <input type="password" name="password" placeholder="Enter your password" required>
+        <button type="submit">Signup</button>
+    </form>
+</div>
+</body>
+</html>
