@@ -10,7 +10,7 @@ import org.springframework.stereotype.Service;
 @NoArgsConstructor
 @Getter
 @Setter
-@AllArgsConstructor
+//@AllArgsConstructor
 public class UserService {
 
 }
