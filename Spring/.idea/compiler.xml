@@ -22,7 +22,7 @@
         <module name="LearningMapping" />
         <module name="LearningSpringBeanLifeCycle" />
       </profile>
-      <profile name="Annotation profile for Spring-Security-Practice" enabled="true">
+      <profile name="Annotation profile for Authentication" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
@@ -31,6 +31,7 @@
         </processorPath>
         <module name="Spring-Security-Practice" />
         <module name="TodoApp" />
+        <module name="Authentication" />
         <module name="To-Do-Application" />
         <module name="JPA_Practice" />
       </profile>
@@ -38,6 +39,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Authentication" options="-parameters" />
       <module name="BasicsOfAnnotationAndConfiguration" options="-parameters" />
       <module name="JPA_Practice" options="-parameters" />
       <module name="LearningMapping" options="-parameters" />

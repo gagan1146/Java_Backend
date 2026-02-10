@@ -2,12 +2,12 @@ package org.gagan.todoapplication.repository;
 
 import java.util.Optional;
 
-import org.gagan.todoapplication.entity.User;
+import org.gagan.todoapplication.entity.Role;
 import org.springframework.data.neo4j.repository.Neo4jRepository;
 import org.springframework.stereotype.Repository;
 
 @Repository
-public interface UserRepository extends Neo4jRepository<User, Long> {
+public interface RoleRepository extends Neo4jRepository<Role, Long> {
 
-	Optional<User> findByEmail(String email);
+    Optional<Role> findByName(String name);
 }
