@@ -23,6 +23,11 @@ public class UserController {
     @Autowired
     private TodoService todoService;
 
+    @GetMapping("/")
+    public String mainPage(){
+        return "redirect:/login";
+    }
+
     @GetMapping("/home")
     public String home(HttpSession session, Model model) {
         UserModel user = (UserModel) session.getAttribute("loggedInUser");
