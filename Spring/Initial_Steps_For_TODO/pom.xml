@@ -12,7 +12,7 @@
     </parent>
 
     <groupId>org.gagan</groupId>
-    <artifactId>To-Do-Application</artifactId>
+    <artifactId>Initial_Steps_For_TODO</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>To-Do-Application</name>
     <description>To-Do-Application</description>
