@@ -30,25 +30,25 @@
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
         </processorPath>
         <module name="Spring-Security-Practice" />
-        <module name="TodoApp" />
-        <module name="Authentication" />
-        <module name="To-Do-Application" />
+        <module name="ToDo_Application" />
+        <module name="Initial_Steps_For_TODO" />
         <module name="JPA_Practice" />
+        <module name="Practice_Login" />
       </profile>
     </annotationProcessing>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="Authentication" options="-parameters" />
       <module name="BasicsOfAnnotationAndConfiguration" options="-parameters" />
+      <module name="Initial_Steps_For_TODO" options="-parameters" />
       <module name="JPA_Practice" options="-parameters" />
       <module name="LearningMapping" options="-parameters" />
       <module name="LearningSpringBeanLifeCycle" options="-parameters" />
       <module name="PracticeSpring" options="-parameters" />
+      <module name="Practice_Login" options="-parameters" />
       <module name="Spring-Security-Practice" options="-parameters" />
       <module name="SpringBootLearning" options="-parameters" />
-      <module name="To-Do-Application" options="-parameters" />
-      <module name="TodoApp" options="-parameters" />
+      <module name="ToDo_Application" options="-parameters" />
     </option>
   </component>
 </project>

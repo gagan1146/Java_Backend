@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/Authentication/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/BasicsOfAnnotationAndConfiguration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Initial_Steps_For_TODO/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/JPA_Practice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/LearningMapping/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/LearningSpringBeanLifeCycle/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/PracticeSpring/PracticeSpring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Practice_Login/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/Spring-Security-Practice/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/SpringBootLearning/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/To-Do-Application/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/TodoApp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ToDo_Application/src/main/java" charset="UTF-8" />
   </component>
 </project>
