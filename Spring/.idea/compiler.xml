@@ -22,7 +22,7 @@
         <module name="LearningMapping" />
         <module name="LearningSpringBeanLifeCycle" />
       </profile>
-      <profile name="Annotation profile for Authentication" enabled="true">
+      <profile name="Annotation profile for Spring-Security-Practice" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
@@ -30,12 +30,14 @@
           <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.42/lombok-1.18.42.jar" />
         </processorPath>
         <module name="Spring-Security-Practice" />
-        <module name="ToDo_Application" />
-        <module name="Initial_Steps_For_TODO" />
         <module name="JPA_Practice" />
-        <module name="Practice_Login" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Initial_Steps_For_TODO" target="17" />
+      <module name="Practice_Login" target="17" />
+      <module name="ToDo_Application" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
